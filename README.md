@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @John Dangle
-- 👀 I’m interested in ... Python, pentesting and ethical hacking
-- 🌱 I’m currently learning ... Python and hacking
-- 💞️ I’m looking to collaborate on ... Python applications
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Mobile application development
+- 🌱 I’m currently learning ... Java 
+- 💞️ I’m looking to collaborate on ... Android applications
+- 📫 How to reach me ... b.downing.code@gmail.com
 
-<!---
+Learning the ropes and on the road to becoming a Junior Developer. Looking to help out however I can and learn as much as I can along the way!
+
+
 Downster/Downster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
