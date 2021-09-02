@@ -8,6 +8,7 @@ Learning the ropes and on the road to becoming a Junior Developer. Looking to he
 
 I have a collection of the tasks I have completed for various courses I have done in my repositories section.
 
-You can find me on CodeWars as Downster
+You can find me and my completed Kata on CodeWars as Downster (https://www.codewars.com/users/Downster/completed)
+
 You can find me on CodeGym as John Dangle (level 8)
 
