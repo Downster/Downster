@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brendan Downing
 - 👀 I’m interested in ... Mobile application development
-- 🌱 I’m currently learning ... JavaScript
+- 🌱 I’m currently learning ... Java/JavaScript/MERN Stack
 - 💞️ I’m looking to collaborate on ... Mobile applications
 - 📫 How to reach me ... b.downing.code@gmail.com
 
