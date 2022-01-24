@@ -2,9 +2,9 @@
 
 -I’m interested in ... Web application development
 
--Stacks I am familiar with ... Python, HTML, CSS
+-Languages I am familiar with ... Python, HTML, CSS, React, Java, Javascript
 
--I’m currently learning ... Java/Python/JavaScript/MERN Stack
+-I’m currently learning ... Python/JavaScript/MERN Stack
 
 -I’m looking to collaborate on ... Web based applications
 
