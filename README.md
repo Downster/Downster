@@ -16,9 +16,5 @@ I have a collection of the tasks I have completed for various courses in my repo
 
 My profile on HackerRank is called imbrandan (https://www.hackerrank.com/imbrandan)
 
-You can find me and my completed Kata on CodeWars as Downster (https://www.codewars.com/users/Downster/completed)
 
-You can find me on CodeGym as John Dangle
-
-Lastly you can find me on CodeAcademy at https://www.codecademy.com/profiles/JohnDangle
 
