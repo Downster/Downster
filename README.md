@@ -1,20 +1,17 @@
--Hi, I’m @Brendan Downing
+-Hi, I’m @Brendan Downing, thanks for visiting my profile!
 
--I’m interested in ... Web application development
+-I’m interested in ... Web application development, specifically for small businesses serving underprivlidged/underresourced communities.
 
--Languages I am familiar with ... Python, HTML, CSS, React, Java, Javascript
-
--I’m currently learning ... Python/JavaScript/MERN Stack
+-I am familiar with ... Python, HTML, CSS, React, Java, Javascript
 
 -I’m looking to collaborate on ... Web based applications
 
 -How to reach me ... b.downing.code@gmail.com
 
-Learning the ropes and on the road to becoming a Junior Developer. Looking to help out however I can and learn as much as I can along the way!
+Looking to make some positive change in the world through technology and learn as much as I can along the way!
 
-I have a collection of the tasks I have completed for various courses in my repositories section.
+I have a collection of the various projects I have completed in my repositories section.
 
-My profile on HackerRank is called imbrandan (https://www.hackerrank.com/imbrandan)
 
 
 
