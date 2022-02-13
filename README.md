@@ -1,5 +1,5 @@
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<>/?username=<DownsterE>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=<DownsterE>&theme=<THEME_NAME>" />
 
 -Hi, I’m @Brendan Downing, thanks for visiting my profile!
 
