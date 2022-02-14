@@ -1,5 +1,8 @@
 -Hi, I’m Brendan Downing, thanks for visiting!
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Downster&theme=radical" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Downster&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Downster&theme=radical" /> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Downster&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
