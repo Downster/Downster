@@ -11,7 +11,7 @@
 -I’m looking to collaborate on ... Web based applications
 <!-- Actual text -->
 
-You can contact me through email : b.downing.code@gmail.com or on [![LinkedIn][2.2]][2].
+You can contact me through email : b.downing.code@gmail.com or on Linked[![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
