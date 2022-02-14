@@ -1,6 +1,7 @@
+-Hi, I’m Brendan Downing, thanks for visiting!
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Downster&theme=radical" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Downster&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
--Hi, I’m @Brendan Downing, thanks for visiting my profile!
+
 
 -I’m interested in ... Web application development, specifically for small businesses serving underprivlidged/underresourced communities.
 
