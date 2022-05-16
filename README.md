@@ -1,12 +1,10 @@
--Hi, I’m Brendan Downing, thanks for visiting!
+#Hi, I’m Brendan Downing, thanks for visiting!
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Downster&theme=radical" /> 
 
 
 
 ## My languages and tools
-
-## Languages & Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -36,8 +34,7 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
--I’m looking to collaborate on ... Web based applications
-<!-- Actual text -->
+
 
 You can contact me through email : b.downing.code@gmail.com or on Linked[![LinkedIn][2.2]][2].
 
