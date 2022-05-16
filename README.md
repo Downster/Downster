@@ -49,10 +49,5 @@ You can contact me through email : b.downing.code@gmail.com or on Linked[![Linke
 
 
 
-Looking to make some positive change in the world through technology and learn as much as I can along the way!
-
-I have a collection of the various projects I have completed in my repositories section.
-
-
 
 
