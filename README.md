@@ -37,17 +37,11 @@
 
 
 # Contact
-LinkedIn - [Brendan Downing](www.linkedin.com/in/chris-threadgill) <br />
+LinkedIn - [Brendan Downing](https://www.linkedin.com/in/brendan-downing/) <br />
 Email - b.downing.code@gmail.com  
 
 
-<!-- Icons -->
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[2]: https://www.linkedin.com/in/brendan-downing-641672228/
 
 
 
