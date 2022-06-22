@@ -36,8 +36,10 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
+# Contact
+LinkedIn - [Brendan Downing](www.linkedin.com/in/chris-threadgill) <br />
+Email - b.downing.code@gmail.com  
 
-You can contact me through email : b.downing.code@gmail.com or on Linked[![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
