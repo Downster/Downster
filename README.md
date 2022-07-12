@@ -1,5 +1,5 @@
 # Hi, I’m Brendan Downing, thanks for visiting!
-- I love to problem solve and am looking to make some positive change in the world through technology. Lets build something great!
+I love to problem solve and am looking to make some positive change in the world through technology. When I am not coding, I spend my time outside, usually rock climbing. Lets build something great!
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Downster&theme=radical" /> 
 
